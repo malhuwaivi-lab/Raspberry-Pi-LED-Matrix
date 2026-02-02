@@ -1,5 +1,3 @@
-# Raspberry-Pi-LED-Matrix
-Python code controlling a 64x32 LED matrix using a Raspberry Pi.
 # Raspberry Pi LED Matrix Controller
 **Status:** Completed | **Tech Stack:** Python, Raspberry Pi, RGB Matrix Library
 
