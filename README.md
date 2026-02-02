@@ -3,8 +3,6 @@ Python code controlling a 64x32 LED matrix using a Raspberry Pi.
 # Raspberry Pi LED Matrix Controller
 **Status:** Completed | **Tech Stack:** Python, Raspberry Pi, RGB Matrix Library
 
-## 📺 Demo
-https://github.com/user-attachments/assets/29bff991-8b3d-46cc-82c0-19769e017d8e
 
 ## 📝 Project Overview
 This project implements low-level control of a **64x32 RGB LED Matrix** using a **Raspberry Pi**. It features custom algorithms for geometric transformations including:
@@ -21,6 +19,8 @@ This project implements low-level control of a **64x32 RGB LED Matrix** using a 
 * `Translation.py` - Logic for linear movement updates.
 * `Rotation.py` - Trigonometric calculations for pixel rotation.
 * `Scaling.py` - Algorithms for resizing the display buffer.
-
+  
+## 📺 Demo
+https://github.com/user-attachments/assets/29bff991-8b3d-46cc-82c0-19769e017d8e
 
 
